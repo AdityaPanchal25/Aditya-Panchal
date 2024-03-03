@@ -75,9 +75,7 @@ In this code:
 
 You can adjust the `width` and `height` values as needed to achieve the desired size for your images.
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/buy me a coffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me a coffee" /></a></p><br><br>
-
+<h2>I Use to With
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityapanchal25&show_icons=true&locale=en&layout=compact" alt="adityapanchal25" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityapanchal25&" alt="adityapanchal25" /></p>
