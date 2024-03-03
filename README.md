@@ -66,16 +66,8 @@ https://github.com/AdityaPanchal25/Aditya-Panchal/assets/125076518/85190f46-a72a
 </div>
 
 
-In this code:
 
-- I've increased the `width` and `height` attributes of each `<img>` tag to `60` pixels to make the images larger.
-- I've added some additional space between the images by increasing their dimensions.
-- The `align="left"` attribute in the `<p>` tag aligns the images to the left side of the page.
-- Each image is now 60x60 pixels in size, making them larger and easier to see.
-
-You can adjust the `width` and `height` values as needed to achieve the desired size for your images.
-
-<h2>I Use to With
+<h2>I Use to With</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityapanchal25&show_icons=true&locale=en&layout=compact" alt="adityapanchal25" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityapanchal25&" alt="adityapanchal25" /></p>
