@@ -1,4 +1,4 @@
-![GitHUBBaAditya (1)](https://github.com/AdityaPanchal25/Aditya-Panchal/assets/125076518/e8f55085-aed9-446c-9dd1-99fa8c16717a)
+![finalbanner (1)](https://github.com/AdityaPanchal25/Aditya-Panchal/assets/125076518/b096e432-17e6-4b53-911b-310546d0f895)
 
 
 <h1 align="center">Hi 👋, I'm Aditya Panchal</h1>
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on               [Quiz Application](https://github.com/AdityaPanchal25/Quiz-Web-Application)
 
-- 🤝 I’m recent project in react + vite          [BrightAPStar](https://github.com/AdityaPanchal25/BrightAPStart)
+- 🤝 I worked on  recent project in react + vite          [BrightAPStar](https://github.com/AdityaPanchal25/BrightAPStart)
 
 - 💬 Ask me about                                **SpringBoot**
 
