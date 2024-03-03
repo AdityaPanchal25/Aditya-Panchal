@@ -21,11 +21,10 @@ https://github.com/AdityaPanchal25/Aditya-Panchal/assets/125076518/85190f46-a72a
 - ⚡ Fun fact                                    **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
+<div style=" border: solid">
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-panchal-34a334251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-panchal-34a334251/" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>To display these images in a row in your GitHub README, you can adjust the size of each image and add some CSS styling to align them horizontally. Here's the modified HTML:
 
 <p align="left">
   <a href="https://canvasjs.com" target="_blank" rel="noreferrer">
@@ -62,6 +61,7 @@ https://github.com/AdityaPanchal25/Aditya-Panchal/assets/125076518/85190f46-a72a
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/>
   </a>
 </p>
+</div>
 
 
 In this code:
