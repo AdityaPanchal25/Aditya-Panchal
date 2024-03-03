@@ -27,7 +27,6 @@ https://github.com/AdityaPanchal25/Aditya-Panchal/assets/125076518/85190f46-a72a
 
 <h3 align="left">Languages and Tools:</h3>To display these images in a row in your GitHub README, you can adjust the size of each image and add some CSS styling to align them horizontally. Here's the modified HTML:
 
-```html
 <p align="left">
   <a href="https://canvasjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="60" height="60"/>
@@ -63,7 +62,7 @@ https://github.com/AdityaPanchal25/Aditya-Panchal/assets/125076518/85190f46-a72a
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/>
   </a>
 </p>
-```
+
 
 In this code:
 
