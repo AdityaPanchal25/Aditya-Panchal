@@ -3,8 +3,6 @@
 <h3 align="center">A passionate web developer from India . 1st year student of Master of Computer Application</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityapanchal25" alt="adityapanchal25" /></a> </p>
-
 - 🔭 I’m currently working on [Quiz Application](https://github.com/AdityaPanchal25/Quiz-Web-Application)
 
 - 🌱 I’m currently learning **React Js**
