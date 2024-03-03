@@ -20,6 +20,7 @@ https://github.com/AdityaPanchal25/Aditya-Panchal/assets/125076518/85190f46-a72a
 
 - ⚡ Fun fact                                    **I think I am funny**
 
+<h2>Stack<
 <h3 align="left">Connect with me:</h3>
 <div style=" border: solid">
 <p align="left">
