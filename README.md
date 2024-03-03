@@ -1,5 +1,4 @@
-
-https://github.com/AdityaPanchal25/Aditya-Panchal/assets/125076518/85190f46-a72a-439c-a6cd-a3db8ba65404
+![GitHUBBaAditya (1)](https://github.com/AdityaPanchal25/Aditya-Panchal/assets/125076518/e8f55085-aed9-446c-9dd1-99fa8c16717a)
 
 
 <h1 align="center">Hi 👋, I'm Aditya Panchal</h1>
