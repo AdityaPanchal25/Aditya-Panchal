@@ -1,4 +1,7 @@
-<vedio src="Desktop/GithubBannerAdp">
+
+https://github.com/AdityaPanchal25/Aditya-Panchal/assets/125076518/85190f46-a72a-439c-a6cd-a3db8ba65404
+
+
 <h1 align="center">Hi 👋, I'm Aditya Panchal</h1>
 <h3 align="center">A passionate web developer from India . 1st year student of Master of Computer Application</h3>
 
