@@ -6,19 +6,19 @@ https://github.com/AdityaPanchal25/Aditya-Panchal/assets/125076518/85190f46-a72a
 <h3 align="center">A passionate web developer from India . 1st year student of Master of Computer Application</h3>
 
 
-- 🔭 I’m currently working on [Quiz Application](https://github.com/AdityaPanchal25/Quiz-Web-Application)
+- 🔭 I’m currently working on                   [Quiz Application](https://github.com/AdityaPanchal25/Quiz-Web-Application)
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning                     **React Js**
 
-- 👯 I’m looking to collaborate on [Quiz Application](https://github.com/AdityaPanchal25/Quiz-Web-Application)
+- 👯 I’m looking to collaborate on               [Quiz Application](https://github.com/AdityaPanchal25/Quiz-Web-Application)
 
-- 🤝 I’m recent project in react + vite [BrightAPStar](https://github.com/AdityaPanchal25/BrightAPStart)
+- 🤝 I’m recent project in react + vite          [BrightAPStar](https://github.com/AdityaPanchal25/BrightAPStart)
 
-- 💬 Ask me about **SpringBoot**
+- 💬 Ask me about                                **SpringBoot**
 
-- 📫 How to reach me **adityasppu25@gmail.com**
+- 📫 How to reach me                             **adityasppu25@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact                                    **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
