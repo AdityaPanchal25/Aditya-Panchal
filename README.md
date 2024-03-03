@@ -20,12 +20,13 @@ https://github.com/AdityaPanchal25/Aditya-Panchal/assets/125076518/85190f46-a72a
 
 - ⚡ Fun fact                                    **I think I am funny**
 
-<h2>Stack<
+
 <h3 align="left">Connect with me:</h3>
 <div style=" border: solid">
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-panchal-34a334251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-panchal-34a334251/" height="30" width="40" /></a>
 </p>
+<h2>Stack</h2>
 
 <p align="left">
   <a href="https://canvasjs.com" target="_blank" rel="noreferrer">
