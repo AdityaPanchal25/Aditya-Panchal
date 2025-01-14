@@ -126,4 +126,4 @@ Feel free to connect or reach out for collaboration on exciting projects!
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityapanchal25&show_icons=true&locale=en&layout=compact" alt="adityapanchal25" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityapanchal25&" alt="adityapanchal25" /></p>
-<p><img align="center" style="width=50px ; height:100px" src="https://github.com/user-attachments/assets/ce0d4e96-14d9-433d-ba18-72c444cbe6be" alt"leetcode 50days batch2024"/></p>()
+<p><img align="center" style="width=700px ; height:1000px" src="https://github.com/user-attachments/assets/ce0d4e96-14d9-433d-ba18-72c444cbe6be" alt"leetcode 50days batch2024"/></p>()
