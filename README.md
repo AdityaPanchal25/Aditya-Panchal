@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Aditya Panchal</h1>
-<h3 align="center">A passionate web developer from India . 1st year student of Master of Computer Application</h3>
+<h3 align="center">A passionate web developer from India . 2st year student of Master of Computer Application</h3>
 
 
 - 🔭 I’m currently working on    [IPL Team Performance Dashboard](![Final Banner](https://github.com/AdityaPanchal25/IPLDashboard)
